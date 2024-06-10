@@ -6,4 +6,4 @@ more about the languages i have come across in my year of study.
 
 <hr/>
 <h2>Author</h2>
-<p>mucheru maina <petermucheru420@gmail.com></p>
+<p>mucheru maina <'petermucheru420@gmail.com'></p>
