@@ -4,6 +4,6 @@ In this project, I will look at concepts that i would likely apply while learnin
 more about the languages i have come across in my year of study.
 </p>
 
-<hr/>
+
 <h2>Author</h2>
-<p>mucheru maina <'petermucheru420@gmail.com'></p>
+<p>mucheru maina <petermucheru420@gmail.com></p>
